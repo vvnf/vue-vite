@@ -10,6 +10,14 @@
         >Vue.js Documentation</a
       >
     </p>
+    <p>
+      <a href="https://vitejs.dev/guide/" target="_blank">Vite Documentation</a>
+    </p>
+    <p>
+      <a href="https://vuejs.org/guide/introduction.html" target="_blank"
+        >Vue.js Documentation</a
+      >
+    </p>
   </div>
 </template>
 
