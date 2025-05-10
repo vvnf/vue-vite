@@ -26,10 +26,33 @@ const counterStore = useCounterStore();
     Check out
     <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
       >create-vue</a
-    >, the official Vue + Vite starter
+    >, the official Vue + Vite starter HelloWorld
   </p>
   <p>
-    Learn more about IDE Support for Vue in the
+    Learn more about IDE Support for Vue in the associated Vite + Vue
+    <a href="https://vitejs.dev/guide/features.html#ide-support" target="_blank"
+      >Vite Docs</a
+    >
+    and the
+    <a
+      href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support"
+      target="_blank"
+      >Vue Docs</a
+    >. You can also check out the
+    <a
+      href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support"
+      target="_blank"
+      >Vue Docs Scaling up Guide</a
+    >.
+  </p>
+  <p>
+    Check out
+    <a href="https://vuejs.org/guide/quick-start.html#local" target="_blank"
+      >create-vue</a
+    >, the official Vue + Vite starter HelloWorld
+  </p>
+  <p>
+    Learn more about IDE Support for Vue in the associated Vite + Vue
     <a
       href="https://vuejs.org/guide/scaling-up/tooling.html#ide-support"
       target="_blank"
